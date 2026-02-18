@@ -1,0 +1,94 @@
+body {
+    background-color: rgb(193, 221, 245);
+    padding: 20px;
+
+}
+
+.fuente {
+    font-family: sans-serif;
+    
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 7px solid #1989e6;
+    
+}
+
+header {
+    text-align: center;
+}
+
+.bloques {
+  background-color: rgb(236, 236, 236);
+  padding: 20px 30px;
+  border-radius: 25px;
+}
+
+.bloques-info {
+  background-color: rgb(236, 236, 236);
+  padding: 20px 30px;
+  border-radius: 25px;
+  padding-bottom: 40px;
+}
+
+.informacion-final {
+    padding-left: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.informacion-final i {
+    display: inline-block;
+    font-size: 20px;
+    margin-right: 8px;
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(151, 25, 25);
+}
+
+#copyright {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.tabla {
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+
+.tabla th {
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+    background-color:rgb(197, 197, 197);
+}
+
+.tabla td {
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(102, 89, 221);
+    
+}
+
+#nombre {
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+#sobre-mi {
+    font-size: 25px;
+    font-family: sans-serif;
+    color: black;
+}
